@@ -11,9 +11,9 @@ I work across **Machine Learning, Deep Learning, Generative AI, RAG, AI Agents, 
 ## About Me
 
 - AI & Data Science undergraduate
-- Director — Product Strategy & Technology at **AskLumenAI**
-- Previously AI/ML Engineer at AskLumenAI
-- Full-Stack Intern at **ViksitHub**
+- Director — Product Strategy & Technology at **AskLumenAI Pvt Ltd**
+- Previously Founding AI/ML Engineer at AskLumenAI
+- Full-Stack AI Engineer at **ViksitHub**
 - Interested in **Generative AI, Agentic AI, LLMs, RAG, ML Systems & AI Products**
 - National-level hackathon participant and winner
 - Currently building AI-powered products and researching agentic architectures
@@ -101,7 +101,7 @@ An AI-driven system focused on intelligent information processing and retrieval.
 
 ## Professional Experience
 
-### AskLumenAI
+### AskLumenAI Pvt Ltd
 
 **Director — Product Strategy & Technology**
 
@@ -118,7 +118,7 @@ Working on AI systems, intelligent agents, automation, and product architecture.
 
 ### ViksitHub
 
-**Full-Stack Intern**
+**Full-Stack AI Engineer**
 
 Worked on full-stack application development and AI-powered products.
 
