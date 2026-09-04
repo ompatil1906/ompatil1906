@@ -68,7 +68,7 @@ Director — Product Strategy & Technology @ AskLumenAI | Ex-Founding AI/ML Engi
 ## Links
 
 - GitHub: <a href="https://github.com/ompatil1906">github.com/ompatil1906</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/om-patil-1a9798274/">linkedin.com/in/om-patil-1a9798274</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/om-patil19/">linkedin.com/in/om-patil19</a>
 
 ---
 
