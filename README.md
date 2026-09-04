@@ -189,12 +189,12 @@ https://github.com/ompatil1906/SERG-System
 
 ## GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=ompatil1906&show_icons=true&include_all_commits=true&hide_border=true"
     alt="GitHub Statistics"
     height="170"
-  />
+  /> -->
 
 <!-- <img
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ompatil1906&layout=compact&hide_border=true"
@@ -202,14 +202,14 @@ https://github.com/ompatil1906/SERG-System
  height="170"
 />
 
-</p>
+</p> -->
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=ompatil1906&hide_border=true"
     alt="GitHub Streak"
   />
-</p> -->
+</p>
 
 ---
 
