@@ -1,84 +1,92 @@
-# Hey, I'm <a href="https://github.com/ompatil1906">Om Patil</a>
+# Hi, I'm <a href="https://github.com/ompatil1906">Om Patil</a> 👋
 
-Building AI-powered products and autonomous systems.
-AI & Data Science Engineer | GenAI | Agentic Systems | Full-Stack AI
+AI & Data Science Engineer focused on **GenAI, Agentic Systems, and Full-Stack AI Products**.  
 Director — Product Strategy & Technology @ AskLumenAI | Ex-Founding AI/ML Engineer
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ompatil1906&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ompatil1906?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/ompatil1906?style=social" alt="GitHub stars" />
+</p>
+
+## Quick Navigation
+- [Why Recruiters Reach Out](#why-recruiters-reach-out)
+- [Featured Projects](#featured-projects)
+- [Tech Stack](#tech-stack)
+- [GitHub Performance](#github-performance)
+- [Current Focus](#current-focus)
+- [Connect](#connect)
+
 ---
 
-<img src="https://komarev.com/ghpvc/?username=ompatil1906">
-<img src="https://img.shields.io/github/followers/ompatil1906?style=social">
-<img src="https://img.shields.io/github/stars/ompatil1906?style=social">
-
-## Tech Stack
-
-- Languages: Python, C++, JavaScript, TypeScript, SQL
-- AI/ML: PyTorch, TensorFlow, Scikit-learn, OpenCV, LLMs, RAG, AI Agents
-- Backend/Web: FastAPI, Node.js, React, REST APIs
-- Databases/Cloud: PostgreSQL, Firebase, AWS, Docker
-
----
-
-## Impact
-
-- Built and shipped multiple AI/ML and full-stack products
-- Winner — National Level AI Summit 2025
-- Runner-Up — National Level Hackathon 2025
-- Led AI product strategy and engineering in startup environments
+## Why Recruiters Reach Out
+- Built and shipped multiple **AI/ML + full-stack products** from concept to implementation.
+- Leading product strategy and engineering execution in startup environments.
+- Winner — **National Level AI Summit 2025**.
+- Runner-Up — **National Level Hackathon 2025**.
 
 ---
 
 ## Featured Projects
 
 ### <a href="https://github.com/ompatil1906/HelpIQ-Autonomous-Multi-Agent-Customer-Support-Platform">HelpIQ — Autonomous Customer Support Platform</a>
-
-- Multi-agent workflow for ticket analysis, routing, and response generation
-- Knowledge-augmented reasoning for context-aware support outputs
-- Designed for scalable customer support automation in production-like settings
+- Built a multi-agent system for ticket analysis, routing, and response generation.
+- Integrated knowledge-augmented reasoning for context-aware support outcomes.
+- Designed for scalable, production-like customer support automation.
 
 ### <a href="https://github.com/ompatil1906/Autonomous-B2B-Supply-Chain-Restocking">WARDEN — Autonomous B2B Supply Chain Restocking</a>
-
-- Autonomous inventory monitoring and replenishment decision system
-- Agentic orchestration for demand analysis and restocking recommendations
-- Focused on practical business automation and operational efficiency
+- Developed autonomous inventory monitoring and replenishment decision workflows.
+- Used agentic orchestration for demand analysis and restocking recommendations.
+- Focused on measurable operational efficiency and business automation.
 
 ### <a href="https://github.com/ompatil1906/SERG-System">SERG System</a>
-
-- AI-driven platform for intelligent information processing and retrieval
-- Built with a focus on robust backend integration and scalable AI workflows
+- Built an AI-driven platform for intelligent information processing and retrieval.
+- Focused on robust backend integration and scalable AI workflows.
 
 ---
 
-## GitHub Stats
+## Tech Stack
+- **Languages:** Python, C++, JavaScript, TypeScript, SQL
+- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, LLMs, RAG, AI Agents
+- **Backend/Web:** FastAPI, Node.js, React, REST APIs
+- **Databases/Cloud/Infra:** PostgreSQL, Firebase, AWS, Docker
 
-<img src="https://github-readme-stats.vercel.app/api?username=ompatil1906&show_icons=true&theme=tokyonight" alt="Om Patil GitHub stats" />
+---
 
-## GitHub Streak
+## GitHub Performance
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ompatil1906&theme=tokyonight" alt="Om Patil GitHub streak" />
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ompatil1906&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Om Patil GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ompatil1906&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p>
+  <img height="165" src="https://streak-stats.demolab.com?user=ompatil1906&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompatil1906&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=ompatil1906&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+</p>
 
 ---
 
 ## Contribution Snake
-
-<img src="https://raw.githubusercontent.com/ompatil1906/ompatil1906/output/snake.svg">
-
----
-
-## Links
-
-- GitHub: <a href="https://github.com/ompatil1906">github.com/ompatil1906</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/om-patil19/">linkedin.com/in/om-patil19</a>
+<p>
+  <img src="https://raw.githubusercontent.com/ompatil1906/ompatil1906/output/snake.svg" alt="Contribution snake animation" />
+</p>
 
 ---
 
-## Currently Building
-
+## Current Focus
+### Currently Building
 - <a href="https://github.com/ompatil1906/HelpIQ-Autonomous-Multi-Agent-Customer-Support-Platform">HelpIQ</a> — Autonomous multi-agent customer support platform.
 - <a href="https://github.com/ompatil1906/Autonomous-B2B-Supply-Chain-Restocking">WARDEN</a> — AI-driven inventory and replenishment automation.
 
-## Currently Exploring
-
+### Currently Exploring
 - Advanced agentic AI system design
 - Production-grade LLM and RAG architectures
 - Scalable backend systems for AI products
@@ -86,4 +94,10 @@ Director — Product Strategy & Technology @ AskLumenAI | Ex-Founding AI/ML Engi
 
 ---
 
-I build practical AI systems. I ship real products. I care about impact.
+## Connect
+- GitHub: <a href="https://github.com/ompatil1906">github.com/ompatil1906</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/om-patil19/">linkedin.com/in/om-patil19</a>
+
+---
+
+**I build practical AI systems, ship real products, and care deeply about measurable impact.**
