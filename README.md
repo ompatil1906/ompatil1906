@@ -28,9 +28,33 @@ Director — Product Strategy & Technology @ AskLumenAI | Ex-Founding AI/ML Engi
 
 ---
 
+## Featured Projects
+
+### <a href="https://github.com/ompatil1906/HelpIQ-Autonomous-Multi-Agent-Customer-Support-Platform">HelpIQ — Autonomous Customer Support Platform</a>
+
+- Multi-agent workflow for ticket analysis, routing, and response generation
+- Knowledge-augmented reasoning for context-aware support outputs
+- Designed for scalable customer support automation in production-like settings
+
+### <a href="https://github.com/ompatil1906/Autonomous-B2B-Supply-Chain-Restocking">WARDEN — Autonomous B2B Supply Chain Restocking</a>
+
+- Autonomous inventory monitoring and replenishment decision system
+- Agentic orchestration for demand analysis and restocking recommendations
+- Focused on practical business automation and operational efficiency
+
+### <a href="https://github.com/ompatil1906/SERG-System">SERG System</a>
+
+- AI-driven platform for intelligent information processing and retrieval
+- Built with a focus on robust backend integration and scalable AI workflows
+
+---
+
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ompatil1906&show_icons=true&theme=tokyonight" alt="Om Patil GitHub stats" />
+
+## GitHub Streak
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ompatil1906&theme=tokyonight" alt="Om Patil GitHub streak" />
 
 ---
@@ -51,7 +75,7 @@ Director — Product Strategy & Technology @ AskLumenAI | Ex-Founding AI/ML Engi
 ## Currently Building
 
 - <a href="https://github.com/ompatil1906/HelpIQ-Autonomous-Multi-Agent-Customer-Support-Platform">HelpIQ</a> — Autonomous multi-agent customer support platform.
-- <a href="https://github.com/ompatil1906/Autonomous-B2B-Supply-Chain-Restocking">WARDEN - Autonomous B2B Supply Chain Restocking</a> — AI-driven inventory and replenishment automation.
+- <a href="https://github.com/ompatil1906/Autonomous-B2B-Supply-Chain-Restocking">WARDEN</a> — AI-driven inventory and replenishment automation.
 
 ## Currently Exploring
 
