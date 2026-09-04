@@ -1,152 +1,89 @@
-# Hi, I'm Om Patil
+# Hey, I'm <a href="https://github.com/ompatil1906">Om Patil</a>
 
-### AI & Data Science Engineer | AI/ML | Generative AI | Agentic Systems | Full-Stack Development
-
-I'm a 4th-year **Artificial Intelligence & Data Science** student at **AISSMS IOIT, Pune**, focused on building practical AI systems that solve real-world problems.
-
-I work across **Machine Learning, Deep Learning, Generative AI, RAG, AI Agents, backend systems, and full-stack applications**. I enjoy taking an idea from research and system design to a working, deployable product.
+Building AI-powered products and autonomous systems.
+AI & Data Science Engineer | GenAI | Agentic Systems | Full-Stack AI
+Director — Product Strategy & Technology @ AskLumenAI | Ex-Founding AI/ML Engineer
 
 ---
 
-## About Me
-
-- AI & Data Science undergraduate
-- Director — Product Strategy & Technology at **AskLumenAI Pvt Ltd**
-- Previously Founding AI/ML Engineer at AskLumenAI
-- Full-Stack AI Engineer at **ViksitHub**
-- Interested in **Generative AI, Agentic AI, LLMs, RAG, ML Systems & AI Products**
-- National-level hackathon participant and winner
-- Currently building AI-powered products and researching agentic architectures
-- Always exploring new ideas at the intersection of **AI + Software Engineering**
-
----
+<img src="https://komarev.com/ghpvc/?username=ompatil1906">
+<img src="https://img.shields.io/github/followers/ompatil1906?style=social">
+<img src="https://img.shields.io/github/stars/ompatil1906?style=social">
 
 ## Tech Stack
 
-### Languages
+- Languages: Python, C++, JavaScript, TypeScript, SQL
+- AI/ML: PyTorch, TensorFlow, Scikit-learn, OpenCV, LLMs, RAG, AI Agents
+- Backend/Web: FastAPI, Node.js, React, REST APIs
+- Databases/Cloud: PostgreSQL, Firebase, AWS, Docker
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+---
 
-### AI / Machine Learning
+## Impact
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-**Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • LLMs • RAG • Prompt Engineering • AI Agents**
-
-### Backend & Web
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
-
-### Databases & Cloud
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**AWS S3 • PostgreSQL • Firebase • Docker • REST APIs • Cloud Deployment**
+- Built and shipped multiple AI/ML and full-stack products
+- Winner — National Level AI Summit 2025
+- Runner-Up — National Level Hackathon 2025
+- Led AI product strategy and engineering in startup environments
 
 ---
 
 ## Featured Projects
 
-### HelpIQ — Autonomous Customer Support Platform
+### <a href="https://github.com/ompatil1906/HelpIQ-Autonomous-Multi-Agent-Customer-Support-Platform">HelpIQ — Autonomous Customer Support Platform</a>
 
-An AI-powered multi-agent system designed to automate the end-to-end customer support workflow.
+- Multi-agent workflow for ticket analysis, routing, and response generation
+- Knowledge-augmented reasoning for context-aware support outputs
+- Designed for scalable customer support automation in production-like settings
 
-**Highlights**
+### <a href="https://github.com/ompatil1906/Autonomous-B2B-Supply-Chain-Restocking">WARDEN — Autonomous B2B Supply Chain Restocking</a>
 
-- Multi-agent architecture for ticket analysis and resolution
-- Knowledge-augmented reasoning
-- Automated ticket classification and routing
-- Context-aware response generation
-- Designed for scalable customer support automation
+- Autonomous inventory monitoring and replenishment decision system
+- Agentic orchestration for demand analysis and restocking recommendations
+- Focused on practical business automation and operational efficiency
 
-[View Repository](https://github.com/ompatil1906/HelpIQ-Autonomous-Multi-Agent-Customer-Support-Platform)
+### <a href="https://github.com/ompatil1906/SERG-System">SERG System</a>
 
----
-
-### Autonomous B2B Supply Chain Restocking
-
-An intelligent system designed to automate inventory monitoring and B2B restocking decisions.
-
-**Highlights**
-
-- Demand and inventory analysis
-- Automated replenishment decisions
-- Agentic workflow for supply-chain operations
-- Designed around autonomous business decision-making
-
-[View Repository](https://github.com/ompatil1906/Autonomous-B2B-Supply-Chain-Restocking)
+- AI-driven platform for intelligent information processing and retrieval
+- Built with a focus on robust backend integration and scalable AI workflows
 
 ---
 
-### SERG System
+## GitHub Stats
 
-An AI-driven system focused on intelligent information processing and retrieval.
+<img src="https://github-readme-stats.vercel.app/api?username=ompatil1906&show_icons=true&theme=tokyonight" alt="Om Patil GitHub stats" />
 
-[View Repository](https://github.com/ompatil1906/SERG-System)
+## GitHub Streak
 
----
-
-## Professional Experience
-
-### AskLumenAI Pvt Ltd
-
-**Director — Product Strategy & Technology**
-
-Working on AI systems, intelligent agents, automation, and product architecture.
-
-**Areas of work:**
-
-- AI agent architecture
-- LLM-powered applications
-- Product strategy and technical planning
-- AI automation
-- System architecture
-- Research and development
-
-### ViksitHub
-
-**Full-Stack AI Engineer**
-
-Worked on full-stack application development and AI-powered products.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ompatil1906&theme=tokyonight" alt="Om Patil GitHub streak" />
 
 ---
 
-## Achievements
+## Contribution Snake
 
-- **Winner — National Level AI Summit 2025**
-- **Runner-Up — National Level Hackathon 2025**
-- Built and shipped multiple AI/ML and full-stack projects
-- Experience working on AI products in a startup environment
+<img src="https://raw.githubusercontent.com/ompatil1906/ompatil1906/output/snake.svg">
 
 ---
 
-## Areas of Interest
+## Links
 
-```text
-Artificial Intelligence
-Generative AI
-Large Language Models
-Agentic AI
-Multi-Agent Systems
-Retrieval-Augmented Generation
-Machine Learning
-Deep Learning
-Natural Language Processing
-Computer Vision
-AI Engineering
-ML Systems
-Backend Engineering
-AI Product Development
+- GitHub: <a href="https://github.com/ompatil1906">github.com/ompatil1906</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/om-patil-1a9798274/">linkedin.com/in/om-patil-1a9798274</a>
+
+---
+
+## Currently Building
+
+- <a href="https://github.com/ompatil1906/HelpIQ-Autonomous-Multi-Agent-Customer-Support-Platform">HelpIQ</a> — Autonomous multi-agent customer support platform.
+- <a href="https://github.com/ompatil1906/Autonomous-B2B-Supply-Chain-Restocking">WARDEN</a> — AI-driven inventory and replenishment automation.
+
+## Currently Exploring
+
+- Advanced agentic AI system design
+- Production-grade LLM and RAG architectures
+- Scalable backend systems for AI products
+- Real-world AI product strategy and deployment
+
+---
+
+I build practical AI systems. I ship real products. I care about impact.
