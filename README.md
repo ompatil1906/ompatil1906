@@ -51,7 +51,7 @@ Director — Product Strategy & Technology @ AskLumenAI | Ex-Founding AI/ML Engi
 ## Currently Building
 
 - <a href="https://github.com/ompatil1906/HelpIQ-Autonomous-Multi-Agent-Customer-Support-Platform">HelpIQ</a> — Autonomous multi-agent customer support platform.
-- <a href="https://github.com/ompatil1906/Autonomous-B2B-Supply-Chain-Restocking">Autonomous B2B Supply Chain Restocking</a> — AI-driven inventory and replenishment automation.
+- <a href="https://github.com/ompatil1906/Autonomous-B2B-Supply-Chain-Restocking">WARDEN - Autonomous B2B Supply Chain Restocking</a> — AI-driven inventory and replenishment automation.
 
 ## Currently Exploring
 
