@@ -196,7 +196,7 @@ https://github.com/ompatil1906/SERG-System
     height="170"
   />
 
-<img
+<!-- <img
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ompatil1906&layout=compact&hide_border=true"
  alt="Top Languages"
  height="170"
@@ -209,7 +209,7 @@ https://github.com/ompatil1906/SERG-System
     src="https://streak-stats.demolab.com/?user=ompatil1906&hide_border=true"
     alt="GitHub Streak"
   />
-</p>
+</p> -->
 
 ---
 
