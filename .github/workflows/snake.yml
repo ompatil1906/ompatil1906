@@ -1,22 +1,24 @@
-
+```yaml
 name: Generate snake animation
 
 on:
+  # Run every 12 hours
   schedule:
     - cron: "0 */12 * * *"
+
+  # Allow manual execution
   workflow_dispatch:
+
+  # Regenerate whenever main is updated
   push:
     branches:
       - main
-
-concurrency:
-  group: snake-animation
-  cancel-in-progress: true
 
 jobs:
   generate:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -27,16 +29,16 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-      - name: Verify generated files
+      - name: Verify generated file
         run: |
           test -f dist/snake.svg
-          ls -lah dist
+          ls -lah dist/
 
-      - name: Push snake.svg to output branch
+      - name: Publish snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+```
