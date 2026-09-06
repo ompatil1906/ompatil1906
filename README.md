@@ -303,5 +303,3 @@ I am especially interested in systems where AI goes beyond text generation and c
 <p align="center">
   <i>I build practical AI systems, ship real products, and care about measurable impact.</i>
 </p>
-
-One thing to verify after pushing this: **run your Snake workflow manually once** and confirm the `output` branch contains `snake.svg`. Your README is already pointing to the correct generated path.
