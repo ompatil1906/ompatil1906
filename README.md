@@ -1,4 +1,3 @@
-
 # Hi, I'm [Om Patil](https://github.com/ompatil1906) 👋
 
 ### AI & Data Science Engineer | Generative AI | Agentic AI | Full-Stack AI
@@ -82,23 +81,23 @@ Customer Ticket
   Guardrail
       ↓
  Auto-Resolution / Human Review
-````
+```
 
 ### What it does
 
-* Multi-agent ticket processing
-* RAG-based knowledge retrieval
-* LLM-powered response generation
-* Human-in-the-loop approvals
-* Policy-based guardrails
-* JWT authentication
-* Role-Based Access Control
-* Multi-tenant data isolation
-* Async processing with Celery + Redis
-* PostgreSQL persistence
-* Pinecone vector search with TF-IDF fallback
-* Audit logging
-* Real-time WebSocket events
+- Multi-agent ticket processing
+- RAG-based knowledge retrieval
+- LLM-powered response generation
+- Human-in-the-loop approvals
+- Policy-based guardrails
+- JWT authentication
+- Role-Based Access Control
+- Multi-tenant data isolation
+- Async processing with Celery + Redis
+- PostgreSQL persistence
+- Pinecone vector search with TF-IDF fallback
+- Audit logging
+- Real-time WebSocket events
 
 ### Tech Stack
 
@@ -111,7 +110,7 @@ https://github.com/ompatil1906/HelpIQ-Autonomous-Multi-Agent-Customer-Support-Pl
 
 ### SERG System
 
-[![SERG](https://img.shields.io/badge/GitHub-SERG-181717?style=flat-square\&logo=github)](https://github.com/ompatil1906/SERG-System)
+[![SERG](https://img.shields.io/badge/GitHub-SERG-181717?style=flat-square&logo=github)](https://github.com/ompatil1906/SERG-System)
 
 AI-driven platform focused on intelligent information processing, retrieval, and scalable backend workflows.
 
@@ -189,24 +188,9 @@ https://github.com/ompatil1906/SERG-System
 
 ## GitHub Statistics
 
-<!-- <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ompatil1906&show_icons=true&include_all_commits=true&hide_border=true"
-    alt="GitHub Statistics"
-    height="170"
-  /> -->
-
-<!-- <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=ompatil1906&layout=compact&hide_border=true"
- alt="Top Languages"
- height="170"
-/>
-
-</p> -->
-
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=ompatil1906&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=ompatil1906&hide_border=true&v=20260906"
     alt="GitHub Streak"
   />
 </p>
