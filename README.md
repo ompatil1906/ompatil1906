@@ -1,4 +1,4 @@
-# Hi, I'm [Om Patil](https://github.com/ompatil1906) 👋
+# Hi, I'm [Om Patil](https://github.com/ompatil1906) 👋 
 
 ### AI & Data Science Engineer | Generative AI | Agentic AI | Full-Stack AI
 
