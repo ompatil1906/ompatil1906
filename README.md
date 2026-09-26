@@ -4,7 +4,7 @@
 
 I build practical AI systems that connect **LLMs, autonomous agents, APIs, data, and automation** to solve real-world problems.
 
-**Head of AI Technology @ AskLumen AI** | **Student Founder @ ViksitHub**
+**Head of AI Technology @ AskLumen AI** | **Student Founder @ ViksitHub** 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ompatil1906&style=flat-square" alt="Profile Views" />
