@@ -1,5 +1,5 @@
 # Hi, I'm [Om Patil](https://github.com/ompatil1906) 👋 
-
+ 
 ### AI & Data Science Engineer | Generative AI | Agentic AI | Full-Stack AI
 
 I build practical AI systems that connect **LLMs, autonomous agents, APIs, data, and automation** to solve real-world problems.
